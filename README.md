@@ -4,6 +4,12 @@
 
 Bookshelf API is a simple API to manage a collection of books. It allows you to add, retrieve, update, and delete books from your bookshelf.   
 
+## 🛠️ Tech Stack
+1. Visual Studio Code
+2. Postman
+3. JavaScript
+4. Node.js
+
 ## 💡 How to Run  
 
 To get the project up and running on your local machine, follow these steps:  
